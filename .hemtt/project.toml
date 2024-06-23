@@ -1,0 +1,20 @@
+name = "Viorla Unit Mod 2 Electric Boogaloo"
+author = "Dolf"
+prefix = "vng"
+
+[files]
+include = [
+    "mod.cpp",
+    "meta.cpp",
+    "LICENSE",
+    "*.paa"
+]
+
+[properties]
+author = "Dolf"
+url = "https://github.com/ABE-Mod/ABE"
+
+[version]
+major = 1
+minor = 0
+patch = 0
